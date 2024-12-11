@@ -1,0 +1,25 @@
+body{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-style: normal;
+}
+.container-fluid{
+    position: fixed;
+    background-color: rgb(255, 238, 0);
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.carousel-item{
+    width: 80vh;
+    margin-left: 20px;
+}
+
+
+
